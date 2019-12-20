@@ -1,2 +1,0 @@
-# Atividade-Final-Bioinfo
-## Teste
